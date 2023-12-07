@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hxbxxl
+- 👀 I’m interested in software development, data structures and object-oriented programming
+- 🌱 I’m currently learning C++, SQL & DSA
